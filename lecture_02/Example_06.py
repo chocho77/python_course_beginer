@@ -53,11 +53,12 @@ result_whole_divide_numbers = 4 // 3 # Integer division
 print(result_whole_divide_numbers)
 x = 6
 y = 8
-result_pow = x ** y
+result_pow = x ** y # Power
 print(f"{x} ** {y} = {result_pow}")
 
 print(5 % 3) # division with remain : remain is 2 remainder
 
+print(2 % 5) # remainder 2
 
 
 
