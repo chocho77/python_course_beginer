@@ -1,3 +1,6 @@
+import datetime
+
+
 first_name = "John"  # snake case
 FirstName = "John"   # Pascal case
 firstName = "John"   # Camel case
@@ -11,6 +14,13 @@ pi = 3.141592 # Real number
 print(type(pi)) # <class 'float'>
 overflow = 3.1234567891011121314
 print(overflow)
+is_user_logged_in = True # Boolean
+print(is_user_logged_in)
+comment = "Hello" # str
+print(comment)
+current_date_time = datetime.datetime.now()
+print(current_date_time)
+
 
 
 
