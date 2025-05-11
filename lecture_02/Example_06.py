@@ -56,7 +56,8 @@ y = 8
 result_pow = x ** y
 print(f"{x} ** {y} = {result_pow}")
 
-print(5 % 3) # division with remain : remain is 2
+print(5 % 3) # division with remain : remain is 2 remainder
+
 
 
 
