@@ -62,6 +62,10 @@ print(2 % 5) # remainder 2
 
 print(2 + 3 * 2) # 8 first multiply 3 * 2 after second add (3 * 2) + 2 = 8 mathematical order
 
+print((2 + 3) * 2) # change priority operation output: 10
+
+
+
 
 
 
