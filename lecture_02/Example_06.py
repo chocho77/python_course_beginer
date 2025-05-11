@@ -21,11 +21,16 @@ print(comment)
 current_date_time = datetime.datetime.now()
 print(current_date_time)
 print(1, 2, 3) # prints multiple values
-print(1, 2, 3, sep="-")
+print(1, 2, 3, sep="-") # print with a separator
 print(1, 2, 3, sep="!")
-print(1, 2, 3, end="!!!!!")
+print(1, 2, 3, end="!!!!!") # print with  an end
 print(1, 2, 3, end="!!!!!\n")
 print("Done")
+print(1, 2 ,3, sep="\"some text\"", end="") # print with both
+x = 123456789011111123456789011111 # Long integer
+
+
+
 
 
 
