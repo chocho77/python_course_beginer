@@ -21,3 +21,10 @@ print("Operation x **= y")
 print(f"x = {x}")
 print("Operation x //= y")
 print(f"x = {x}")
+
+d_str = "Hello"
+f_str = " There ! "
+
+d_str += f_str
+
+print(d_str)
